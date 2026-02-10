@@ -1,2 +1,1 @@
-# 100-days-of-code
-Documenting my 100 Days Coding Challenge — from basics to advanced projects.
+This repository serves as a centralized lab for my explorations into the core pillars of Computer Science. My goal is to bridge theoretical academic concepts with practical, industry-standard implementations.
